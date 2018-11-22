@@ -1,1 +1,1 @@
-A small collection of py functions which are intended to reproduce some arm instruction. Useful when reverse engineering functions (crypto/hashers)
+A small collection of py functions which are intended to reproduce some arm instruction. Useful when reverse engineering things like crypto and hashers... always had to write some of those... too much redundancy
